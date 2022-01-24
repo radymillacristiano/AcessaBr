@@ -1,0 +1,11 @@
+.btn {
+  cursor: pointer;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+  background-color: var(--green);
+  color: var(--white);
+  padding: .6rem 1rem;
+  border: 1px solid #1898a1;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
+  font-size: 1.4rem;
+}
